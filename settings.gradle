@@ -1,2 +1,3 @@
 rootProject.name = 'Lab2'
+include 'Lab2Module'
 
